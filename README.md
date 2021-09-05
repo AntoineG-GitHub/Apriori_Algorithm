@@ -1,7 +1,6 @@
-LINGI2364: Mining Patterns in Data
-Project 1: Implementing Apriori
+                                                              LINGI2364: Mining Patterns in Data
+                                                                Project 1: Implementing Apriori
 
-1 Context
 
 This project is focused on the Apriori algorithm which aims to find the frequent itemsets in a dataset given a fixed
 minimum support. The Apriori algorithm is the most basic join-based algorithm for frequent itemset mining. It
