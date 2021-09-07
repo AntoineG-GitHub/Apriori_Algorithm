@@ -1,4 +1,4 @@
-                                                LINGI2364: Mining Patterns in Data
+   # LINGI2364: Mining Patterns in Data
                                                   Project 1: Implementing Apriori
 
 
